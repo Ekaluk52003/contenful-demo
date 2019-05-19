@@ -14,7 +14,7 @@ class BlogIndex extends React.Component {
       <div style={{ background: '#fff' }}>
         <Helmet title={siteTitle} />
         <div className={styles.hero}>
-          Blog Mill2
+          Blog Mill 6
         </div>
         <div className="wrapper">
           <h2 className="section-headline">Recent articles</h2>
