@@ -59,6 +59,7 @@ export const pageQuery = graphql`
       edges {
         node {
           name
+          nickname
           shortBio {
             shortBio
           }

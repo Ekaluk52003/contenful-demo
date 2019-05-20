@@ -23,7 +23,7 @@ class BlogPostTemplate extends React.Component {
               display: 'block',
             }}
           >
-            {post.publishDate}
+            {post.publishDate}  
           </p>
           <div
             dangerouslySetInnerHTML={{
